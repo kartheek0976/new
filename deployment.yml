@@ -16,7 +16,7 @@ spec:
 
     spec:
       containers:
-      - name: cont-1
+      - name: con-1
         image: shaikmustafa/dm
         ports:
         - containerPort: 80
