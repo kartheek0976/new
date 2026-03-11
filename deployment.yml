@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: kartheek0976/priya:appimage1
+        image: shaikmustafa/dm
         ports:
         - containerPort: 80
 ---
